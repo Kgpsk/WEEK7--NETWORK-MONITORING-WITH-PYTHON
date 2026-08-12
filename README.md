@@ -147,11 +147,8 @@ write memory
 ## Script Output (Normal)
 
 
-===============================
 NETWORK MONITORING AUTOMATION
-===============================
 Time: 2026-08-12 20:37:25
-===============================
 
 [1] Connecting to R1...
 ✅ Connected to R1 (192.168.122.53)
@@ -184,9 +181,7 @@ FastEthernet0/1 unassigned YES NVRAM administratively down down
 
     FastEthernet0/1 unassigned YES NVRAM administratively down down
 
-=======================
 MONITORING COMPLETE
-=======================
 Time: 2026-08-12 20:37:57
 
 ✅ All routers checked successfully!
